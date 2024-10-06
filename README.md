@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm building a Generative AI model for the Accenture hackathon to drive innovation and sustainability.<br>I'm currently diving into NLP and large language models (LLMs) in machine learning.
+I'm passionate about open source and actively contributing to projects that make a positive impact on the tech community. I believe in the power of collaboration and innovation that open source fosters, and I'm excited to be a part of it.
 
 
 ## 🌐 Socials:
